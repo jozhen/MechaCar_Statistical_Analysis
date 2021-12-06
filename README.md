@@ -1,5 +1,6 @@
 # MechaCar_Statistical_Analysis
 ## Linear Regression to Predict MPG
+![image](assets/1.png)
 ### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 The vehicle length and spoiler angle have the variable that will have a non-random amount of variance to the mpg values because the lower p-values indicate the outcome to be very unlikely. 
 ### Is the slope of the linear model considered to be zero? Why or why not?
