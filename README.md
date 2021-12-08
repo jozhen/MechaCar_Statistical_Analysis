@@ -25,7 +25,7 @@ However in lot 3 the p-value is less than 0.05 so we can reject the null hypothe
 
 ## Study Design: MechaCar vs Competition
 ### What metric or metrics are you going to test?
-We are going to test the mpg agaisnt population mean of 35 miles per gallon. 
+We are going to test the mpg agaisnt the competition. 
 ### What is the null hypothesis or alternative hypothesis?
 Null Hypothesis is MechaCar is not greater than 35 miles per gallon. 
 
