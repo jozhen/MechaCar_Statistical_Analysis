@@ -22,3 +22,17 @@ Lot 1 and 2 are within that 100 pounds per square inch variance, however lot 3 d
 ### Here is the summary of the t-test for each lot. 
 As you see Lot 1 and 2 have p-value greater than 0.05 therefore we can fail to reject the null hypothesis that each lot individually are statistically different from the population mean of 1,500 pounds per square inch
 However in lot 3 the p-value is less than 0.05 so we can reject the null hypothesis. 
+
+## Study Design: MechaCar vs Competition
+### What metric or metrics are you going to test?
+We are going to test the mpg agaisnt population mean of 35 miles per gallon. 
+### What is the null hypothesis or alternative hypothesis?
+Null Hypothesis is MechaCar is not greater than 35 miles per gallon. 
+Alternative Hypothesis is the MechaCar is greater than 35 miles per gallon. 
+### What statistical test would you use to test the hypothesis? And why?
+We are going use use a t-test to evaluate. 
+### What data is needed to run the statistical test?
+Mpg sample data is needed to run the statistical test. 
+### Results 
+![image](assets/5.png)
+The p-value is less than 0.05 so we can say we have 95% confidence than our MechaCar is greater than and performs better against the competition at 35 mpg. 
