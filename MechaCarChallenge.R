@@ -16,3 +16,5 @@ lot3 <- subset(suspen_table, Manufacturing_Lot=="Lot3")
 t.test(lot1$PSI,mu=1500)
 t.test(lot2$PSI,mu=1500)
 t.test(lot3$PSI,mu=1500)
+##Deliverable 4
+t.test(mecha_table$mpg,mu=35, alternative = "greater")
