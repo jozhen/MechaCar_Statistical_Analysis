@@ -16,3 +16,9 @@ The r-squared value means that about 72% of the predictions will be effective ag
 ![image](assets/3.png)
 
 Lot 1 and 2 are within that 100 pounds per square inch variance, however lot 3 doesn't being over 100 at 170.29. 
+
+## T-Tests on Suspension Coils
+![image](assets/4.png)
+### Here is the summary of the t-test for each lot. 
+As you see Lot 1 and 2 have p-value greater than 0.05 therefore we can fail to reject the null hypothesis that each lot individually are statistically different from the population mean of 1,500 pounds per square inch
+However in lot 3 the p-value is less than 0.05 so we can reject the null hypothesis. 
